@@ -13,7 +13,6 @@ Jacob Bassett
 This is a website that enables users to find and save their favorite xkcd comics. I hope you enjoy it!
 
 ### Server Tools:
-
     "axios": "^1.6.0",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
